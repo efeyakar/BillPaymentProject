@@ -1,0 +1,8 @@
+C:\Users\efeya\source\repos\LeassonExample\LeassonExample\bin\Debug\LeassonExample.exe.config
+C:\Users\efeya\source\repos\LeassonExample\LeassonExample\bin\Debug\LeassonExample.exe
+C:\Users\efeya\source\repos\LeassonExample\LeassonExample\bin\Debug\LeassonExample.pdb
+C:\Users\efeya\source\repos\LeassonExample\LeassonExample\obj\Debug\LeassonExample.csproj.AssemblyReference.cache
+C:\Users\efeya\source\repos\LeassonExample\LeassonExample\obj\Debug\LeassonExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\efeya\source\repos\LeassonExample\LeassonExample\obj\Debug\LeassonExample.csproj.CoreCompileInputs.cache
+C:\Users\efeya\source\repos\LeassonExample\LeassonExample\obj\Debug\LeassonExample.exe
+C:\Users\efeya\source\repos\LeassonExample\LeassonExample\obj\Debug\LeassonExample.pdb
